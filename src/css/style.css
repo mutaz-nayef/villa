@@ -105,7 +105,7 @@
     --fs-600: 1.25rem;
     --fs-700: 1.5rem;
     --fs-800: 2rem;
-    --fs-900: 3.75rem;
+    --fs-900: 3.5rem;
     --fs-1000: 4rem;
 
     @media (width > 760px) {
@@ -219,6 +219,7 @@
     justify-content: center;
     align-items: center;
     gap: 1rem;
+    flex-wrap: wrap;
   }
   .flex-col-center {
     display: flex;
