@@ -637,10 +637,10 @@
     background-position: top center;
     img {
       border-radius: var(--border-radius-3);
-      margin-block-start: 2rem;
+      margin-block-start: 4rem;
     }
     .cards {
-      --margin: 4rem;
+      --margin: 6rem;
       margin-block-start: var(--margin);
       .counter {
         font-size: var(--font-size-md);
